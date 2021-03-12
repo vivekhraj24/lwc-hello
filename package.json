@@ -24,6 +24,6 @@
     "prettier-plugin-apex": "^1.0.0"
   },
   "dependencies": {
-    "react-dev-utils": "^10.1.0"
+    "react-dev-utils": "^11.0.4"
   }
 }
